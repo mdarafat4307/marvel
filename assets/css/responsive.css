@@ -1,0 +1,225 @@
+@media only screen and (max-width : 767px) {
+
+    .navbar-brand{
+        max-width: 120px;
+    }
+    .main-nav {
+        padding: 10px;
+       
+    }
+    .ms-auto {
+        text-align: center;
+    }
+    .navbar-toggler{
+        background-color: #fff;  
+    }
+    .navbar-toggler-icon {
+        width: 1em;
+        height: 1em;
+        padding-top: 21px;
+        
+    }
+    .section-title h2 {
+        font-size: 50px;
+    }
+    .about-card {
+        width: 290px;
+        height: 340px;
+        margin-bottom: 10px;
+    }
+    .responsive-caption .section-title h2 {
+        font-size: 38px;
+    }
+    .home-desc h1 {
+        font-size: 28px;
+    }
+    .home-desc p {
+        font-size: 14px;
+    }
+    .btn-style-1 {
+        padding: 15px 30px;
+        font-size: 13px;
+    }
+    .section-text h3 {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+    .about-card h4 {
+        font-size: 20px;
+    }
+    .pt-90 {
+        padding-top: 40px;
+    }
+    .pb-100 {
+     padding-bottom: 0px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+    }
+    .responsive-img {
+        margin-top: 300px;
+    }
+    .btn-style-2 {
+        padding: 15px 28px;
+        margin-top: 290px;
+    }
+    .service-card {
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .counter-section h2 {
+        font-size: 26px;
+        padding-top: 65px;
+        margin-bottom: 45px;
+    }
+    .counter-card h4 {
+        font-size: 40px;
+    }
+    .section-text h3 {
+    font-size: 21px;
+    }
+    .feature-card {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .feature-card .feature-icon i {
+        height: 45px;
+        width: 46px;
+        line-height: 44px;
+    }
+    .feature-text h4 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .testimonial-text img {
+        margin-bottom: 26px;
+    }
+    .testimonial-text h2 {
+        font-size: 30px;
+        margin-bottom: 26px;
+    }
+    .btn-style-3 {
+        padding: 11px 36px;
+        margin-left: 23px;
+        margin-bottom: 10px;
+    }
+    .back-to-top {
+        bottom: 20px;
+        right: 15px;
+        width: 30px;
+        height: 30px;
+        line-height: 33px;
+    }
+    .sorting-menu > ul > li {
+        margin-top: 7px;
+    }
+    .pricing-section .section-text h3 {
+        font-size: 30px;
+    }
+    .work-text h3 {
+        font-size: 22px;
+    }
+    .btn-style-4 {
+        padding: 15px 30px;
+        margin-right: 3px;
+        margin-bottom: 10px;
+    }
+    .btn-style-5 {
+        padding: 15px 39px;
+    }
+    .ptb-200 {
+      padding-top: 1px;
+     padding-bottom: 100px;
+    }
+    .footer-text i {
+        margin-left: 45px;
+    }
+    .footer-text p {
+        margin-left: 45px;
+    }
+    .footer {
+        padding: 20px 0;
+    }
+    .footer-social-icon ul {
+        padding-top: 10px;
+    }
+    .footer-text-end i {
+        margin-left: 130px;
+        margin-top: 10px;
+    }
+}
+@media only screen and (min-width : 500px) and (max-width : 767px) {
+    .navbar-toggler{
+        background-color: #fff;  
+    }
+    .about-card {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .responsive-img {
+        margin-top: 200px;
+    }
+    .btn-style-2 {
+        margin-top: 400px;
+    }
+    .team-card {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .back-to-top {
+        width: 40px;
+        height: 40px;
+        line-height: 41px;
+    }
+}
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    .navbar-toggler{
+        background-color: #fff;  
+    }
+    .about-card {
+        width: 350px;
+        height: 400px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .back-to-top {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+      .responsive-img{
+        margin-top: 200px;
+      }
+      .btn-style-2 {
+        margin-top: 490px;
+    }
+    .portfolio-card img {
+        margin-left: 107px;
+    }
+    .row>* {
+        width: 90%;
+        margin-left: 30px;
+    }
+    .team-card {
+        margin: auto;
+    }
+    
+    .news-card {
+        text-align:left;
+    }
+    .news-text h4 a {
+        font-size: 24px;
+    }
+    .news-text p {
+        font-size: 20px;
+    }
+}
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+
+}
+@media only screen and (min-width : 1200px) and (max-width : 1399px) {
+
+}
